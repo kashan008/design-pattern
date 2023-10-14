@@ -1,0 +1,2 @@
+Chain_of_Responsibility.AbstractLogger
+AbstractLogger
