@@ -1,0 +1,2 @@
+singletonpattern.Main
+SingletonPattern.NewMain
