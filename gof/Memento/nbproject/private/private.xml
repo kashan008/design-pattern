@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/Command.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/Shape.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/CompoundShape.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/MoveCommand.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/Editor.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/Dot.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/Oval.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/Canvas.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/Circle.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/History.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/ColorCommand.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/Rectangle.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/Demo.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/BaseShape.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Memento/src/memento/Memento.java</file>
+        </group>
+    </open-files>
+</project-private>
